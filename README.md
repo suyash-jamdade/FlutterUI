@@ -1,4 +1,4 @@
-# sdl2
+# FlutterUI
 
 A new Flutter application.
 
